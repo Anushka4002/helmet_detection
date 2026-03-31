@@ -22,7 +22,7 @@ CLASSES = {
 
 TRAIN_RATIO = 0.8
 
-# Create output folders
+
 for folder in [
     OUTPUT_IMAGES_TRAIN,
     OUTPUT_IMAGES_VAL,
