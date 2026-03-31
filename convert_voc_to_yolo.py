@@ -4,7 +4,7 @@ import shutil
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-# Paths
+#Path
 BASE_DIR = Path(".")
 IMAGES_DIR = BASE_DIR / "dataset1" / "images"
 ANNOTATIONS_DIR = BASE_DIR / "dataset1" / "annotations"
