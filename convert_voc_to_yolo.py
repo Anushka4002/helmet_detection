@@ -19,7 +19,7 @@ CLASSES = {
     "Without Helmet": 1
 }
 
-# Train-val split ratio
+
 TRAIN_RATIO = 0.8
 
 # Create output folders
